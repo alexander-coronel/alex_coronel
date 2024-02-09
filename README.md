@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexander Coornel! <br/><a href="https://github.com/deruan-cb">Junior Financial Data Scientist enthusiast</a>,
+<h1>Hi, I'm Alexander Coornel! <br/><a href="https://github.com/deruan-cb">Junior Financial Data Scientist</a>,
 
 <h2>👨‍💻 fiancial Projects:</h2>
 
